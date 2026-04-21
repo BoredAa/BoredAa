@@ -1,27 +1,26 @@
-<!-- HEADER -->
 <h1 align="center">✨ Hi, I'm Pari ✨</h1>
-<p align="center"><em>Crafting stories through data, dashboards, and curiosity.</em></p>
+<p align="center"><em>Transforming raw data into meaningful narratives.</em></p>
 
 ---
 
-<!-- SECTION 1 -->
-<table>
+<!-- ABOUT -->
+<table width="100%">
 <tr>
-<td width="55%">
+<td width="50%" valign="middle">
 
 ## 🌸 About Me
 
-I enjoy working where **data engineering meets analytics**, building pipelines and transforming raw information into something meaningful.
+I enjoy working at the intersection of **data engineering and analytics**, where structure meets storytelling.
 
-- 🎯 Working towards becoming a **Data Analytics Specialist**
-- 📊 Love translating numbers into **clear visual stories**
-- 🧠 Curious mind with a habit of continuous learning
-- ✍️ Blending **technical writing with creativity**
+- 🎯 Becoming a **Data Analytics Specialist**
+- 📊 Passionate about **data visualization & insights**
+- ✍️ Technical + creative writing enthusiast
+- 🌱 Consistently learning and refining my craft
 
 </td>
-<td align="center">
+<td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/SLzgaW0dW1qYjei58x/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="260"/>
 
 </td>
 </tr>
@@ -29,27 +28,27 @@ I enjoy working where **data engineering meets analytics**, building pipelines a
 
 ---
 
-<!-- SECTION 2 -->
-<table>
+<!-- TOOLS -->
+<table width="100%">
 <tr>
-<td align="center">
+<td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/MQnmKbh8A9n9kT4Ua5/giphy.gif" width="260"/>
 
 </td>
-<td width="55%">
+<td width="50%" valign="middle">
 
 ## 💻 What I Work With
 
-My toolkit revolves around building, querying, and visualizing data:
+I build, analyze, and visualize data using a focused set of tools:
 
-- 🐍 **Python** for data processing  
-- 🗄️ **PostgreSQL** for structured data handling  
-- ⚙️ **Apache Airflow** for orchestration  
-- 📊 **Power BI & Tableau** for dashboards  
-- 🐳 **Docker & GitHub** for development workflows  
+- 🐍 Python  
+- 🗄️ PostgreSQL  
+- ⚙️ Apache Airflow  
+- 📊 Power BI & Tableau  
+- 🐳 Docker & GitHub  
 
-I enjoy turning complex systems into something intuitive and efficient.
+I enjoy simplifying complexity into structured, efficient systems.
 
 </td>
 </tr>
@@ -57,25 +56,25 @@ I enjoy turning complex systems into something intuitive and efficient.
 
 ---
 
-<!-- SECTION 3 -->
-<table>
+<!-- GROWTH -->
+<table width="100%">
 <tr>
-<td width="55%">
+<td width="50%" valign="middle">
 
 ## 🌱 Currently Growing In
 
-Right now, my focus is on strengthening:
+My current focus areas include:
 
-- Advanced **data modeling & analytics**
-- Workflow automation and scalability
-- Creating dashboards that are both **functional and beautiful**
+- Advanced **analytics & modeling**
+- Scalable data workflows
+- Designing dashboards that are both **intuitive and aesthetic**
 
-I believe growth comes from consistency, not speed.
+Growth, for me, is about depth and consistency.
 
 </td>
-<td align="center">
+<td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="260"/>
 
 </td>
 </tr>
@@ -83,23 +82,23 @@ I believe growth comes from consistency, not speed.
 
 ---
 
-<!-- SECTION 4 -->
-<table>
+<!-- CONNECT -->
+<table width="100%">
 <tr>
-<td align="center">
+<td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/UvuMTErnDDRfwUBBbS/giphy.gif" width="240"/>
 
 </td>
-<td width="55%">
+<td width="50%" valign="middle">
 
 ## 🌐 Let's Connect
 
-If you enjoy conversations around data, tech, or ideas — feel free to reach out.
+If you enjoy discussions around data, ideas, or technology:
 
 <p>
   <a href="https://www.linkedin.com/in/pari-gupta-9b795928a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
@@ -109,19 +108,19 @@ If you enjoy conversations around data, tech, or ideas — feel free to reach ou
 
 ---
 
-<!-- SECTION 5 -->
-<table>
+<!-- STATS -->
+<table width="100%">
 <tr>
-<td width="55%">
+<td width="50%" valign="middle">
 
 ## 📊 GitHub Snapshot
 
-A quick look at my development activity and language usage:
+A quick overview of my work, activity, and language preferences:
 
 </td>
-<td align="center">
+<td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="240"/>
 
 </td>
 </tr>
@@ -135,21 +134,21 @@ A quick look at my development activity and language usage:
 
 ---
 
-<!-- SECTION 6 -->
-<table>
+<!-- QUOTE -->
+<table width="100%">
 <tr>
-<td align="center">
+<td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="220"/>
+<img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="240"/>
 
 </td>
-<td width="55%">
+<td width="50%" valign="middle">
 
 ## 💫 A Thought I Like
 
-> *"Data is more than numbers — it’s perspective waiting to be understood."*
+> *"Every dataset holds a story — the real skill lies in uncovering it."*
 
-I aim to bridge the gap between raw data and meaningful insight.
+I aim to bridge the gap between raw numbers and meaningful insight.
 
 </td>
 </tr>
