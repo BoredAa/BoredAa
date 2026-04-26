@@ -6,7 +6,7 @@
 <!-- ABOUT -->
 <table width="100%">
 <tr>
-<td width="50%" valign="middle">
+<td  valign="middle">
 
 ## 🌸 About Me
 
@@ -16,11 +16,6 @@ I enjoy working at the intersection of **data engineering and analytics**, where
 - 📊 Passionate about **data visualization & insights**
 - ✍️ Technical + creative writing enthusiast
 - 🌱 Consistently learning and refining my craft
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" width="260"/>
 
 </td>
 </tr>
@@ -108,32 +103,6 @@ If you enjoy discussions around data, ideas, or technology:
 
 ---
 
-<!-- STATS -->
-<table width="100%">
-<tr>
-<td width="50%" valign="middle">
-
-## 📊 GitHub Snapshot
-
-A quick overview of my work, activity, and language preferences:
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="240"/>
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BoredAa&show_icons=true&theme=radical"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoredAa&layout=compact&theme=radical"/>
-</p>
-
----
-
 <!-- QUOTE -->
 <table width="100%">
 <tr>
@@ -142,7 +111,7 @@ A quick overview of my work, activity, and language preferences:
 <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="240"/>
 
 </td>
-<td width="50%" valign="middle">
+<td width="50%" valign="center">
 
 ## 💫 A Thought I Like
 
